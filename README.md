@@ -1,3 +1,3 @@
-# RadLister
+# MehLister
 
-Some rad listing application that is safer than craigslist. We talk english here now.
+Some meh listing application that is safer than craigslist.
